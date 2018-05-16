@@ -16,7 +16,11 @@ body {
     height: auto;
   }
   
-  h1,
+  h1 {
+    font-size: 500%;
+    line-height: 90%;
+  }
+
   h2,
   h3 {
     margin: 0;
