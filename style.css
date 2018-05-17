@@ -10,6 +10,13 @@ body {
     text-align: center;
   }
   
+.img1 {
+    padding-top: 20%;
+    padding-left: 43%; 
+    width: 15%;
+    height: auto;
+}
+
   img {
     display: block;
     width: 100%;
@@ -76,7 +83,7 @@ body {
   }
   
   #showcase h1 {
-    padding-top: 100px;
+    padding-top: 0;
     padding-bottom: 0;
   }
   
