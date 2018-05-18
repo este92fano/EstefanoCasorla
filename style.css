@@ -202,7 +202,6 @@ body {
     .grid {
       display: grid;
       grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
-        -webkit-overflow-scrolling: touch;
     }
   
     #section-a .content-text {
@@ -232,6 +231,10 @@ body {
     #section-b li {
       width: 31%;
     }
+      
+    img {
+     image-resolution: auto;
+      }
   }
   
 
