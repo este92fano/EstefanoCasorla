@@ -24,8 +24,10 @@ body {
   }
   
   h1 {
-    font-size: 335%;
-    line-height: 90%;
+    font-size: 330%;
+    line-height: 95%;
+    text-align: center;
+    font-family: 'Pacifico', cursive;  
   }
 
   h2,
@@ -128,7 +130,6 @@ body {
     /* The image used */
     background-image: url("5.jpeg");
 
-
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -159,7 +160,6 @@ body {
     /* The image used */
     background-image: url("7.jpeg");
 
-      
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -175,8 +175,6 @@ body {
     /* The image used */
     background-image: url("6.jpeg");
 
-
-      
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -203,9 +201,14 @@ body {
   /* Media Queries */
   
   @media (min-width: 700px) {
+    
     .grid {
       display: grid;
       grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
+    }
+
+    img {
+      image-resolution: auto;
     }
   
     #section-a .content-text {
@@ -235,11 +238,9 @@ body {
     #section-b li {
       width: 31%;
     }
-      
-    img {
-     image-resolution: auto;
-      }
   }
+
+  
   
 
 
