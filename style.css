@@ -68,7 +68,7 @@ body {
     background-image: url("1.JPG");
 
     /* Set a specific height */
-    height: auto; 
+    height: 100%; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -129,7 +129,7 @@ body {
     background-image: url("5.jpeg");
       
     /* Set a specific height */
-    height: auto; 
+    height: 100%; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -162,7 +162,7 @@ body {
     background-image: url("7.jpeg");
 
    /* Set a specific height */
-    height: auto; 
+    height: 100%; 
       
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -180,7 +180,7 @@ body {
     background-image: url("6.jpeg");
 
     /* Set a specific height */
-    height: auto; 
+    height: 100%; 
       
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
