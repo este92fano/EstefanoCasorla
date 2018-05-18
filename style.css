@@ -71,11 +71,11 @@ body {
     height: 900px; 
 
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
+/*     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: absolute;
+    position: absolute; */
     
     width: 100%;
     z-index: -1;
@@ -129,12 +129,12 @@ body {
     background-image: url("5.jpeg");
 
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
+/*     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(0, 0, 0);
-    padding: 5em;
+    padding: 5em; */
   }
   
   /* Section D / Boxes */
@@ -159,12 +159,12 @@ body {
     background-image: url("7.jpeg");
 
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
+/*     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(255, 255, 255);
-    padding: 5em;
+    padding: 5em; */
   }
 
   /* Section F */
@@ -174,12 +174,12 @@ body {
     background-image: url("6.jpeg");
 
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
+/*     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(255, 255, 255);
-    padding: 5em;
+    padding: 5em; */
   }
   
   /* Footer */
